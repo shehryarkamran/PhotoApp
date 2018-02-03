@@ -1,7 +1,7 @@
 PhotoApp
 ========
 
-This app displays display photos through internet.
+This app displays different photos through internet.
 
 Pre-requisites
 ==============
